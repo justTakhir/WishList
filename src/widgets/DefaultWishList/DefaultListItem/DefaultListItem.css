@@ -1,0 +1,15 @@
+.default-list__item {
+  box-sizing: border-box;
+  min-width: 400px;
+  width: 70%;
+  min-height: 80px;
+  /* background-color: rgba(0, 0, 0, 0.562); */
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-size: 24px;
+  border: 1px solid black;
+  margin-top: 6px;
+  border-radius: 1px;
+}
